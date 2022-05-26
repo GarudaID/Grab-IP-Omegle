@@ -3,6 +3,7 @@
 
 [![KoF](https://img.shields.io/discord/857314563639476275?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://dsc.gg/kof/)
 <br>
+So basically just download the code and copy it and paste in ur developer console by inspect element. Then u will get their ips and geo-location of the person (NOTE IT ONLY WORKS WITH VIDEO)
 
 <p align="center">
 <img src="https://codingshiksha.com/wp-content/uploads/2022/03/Screenshot_336.png?ezimgfmt=ng:webp/ngcb23"</a>
